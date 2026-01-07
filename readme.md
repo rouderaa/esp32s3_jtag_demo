@@ -4,6 +4,8 @@ A simple Arduino example for the **ESP32-S3** that blinks a **WS2812 (NeoPixel) 
 
 This project is intended as a **bring-up and debugging demo** and works with **Arduino ESP32 core v2.3.7+**, which provides **automatic USB JTAG support** with no manual configuration.
 
+It operates on the esp32s3-zero board.
+<img src="assets/image01.png" alt="esp32-s3 zero board" style="width: 400px; max-width: 100%;">
 ---
 
 ## Features
